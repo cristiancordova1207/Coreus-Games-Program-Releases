@@ -1,0 +1,38 @@
+{
+ "launcher": {
+  "version": "1.0.0",
+  "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/Coreus-Games.zip"
+ },
+ "games": {
+  "snake": {
+   "version": "1.0.10",
+   "size": 42450755,
+   "sha256": "9eaf28892f4ad5865ead142726c55a8985947f1cca3fae554db492a78962e4f9",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/snake-1.0.10.exe"
+  },
+  "dance": {
+   "version": "1.0.4",
+   "size": 42208823,
+   "sha256": "6294a704373a3ef1e903eb85c19611e1c88480d54dc605330f71a904f64b997a",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/dance-1.0.4.exe"
+  },
+  "fashion": {
+   "version": "1.0.18",
+   "size": 42642698,
+   "sha256": "05ce72e3d2531abb22eaace2a885ffbd6d799a4a0310af7534ff3b28c322d6a7",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/fashion-1.0.18.exe"
+  },
+  "aura": {
+   "version": "0.1.0",
+   "size": 42273915,
+   "sha256": "f207e0a3420dd69866084bf8ad922e3a7954add53820a8d272c0761d279776f6",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/aura-0.1.0.exe"
+  },
+  "redcarpet": {
+   "version": "1.0.0",
+   "size": 42619430,
+   "sha256": "d6c797699307ded449dd267090f70537844777ce8baf7941ada6216ed4a242d3",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/redcarpet-1.0.0.exe"
+  }
+ }
+}
