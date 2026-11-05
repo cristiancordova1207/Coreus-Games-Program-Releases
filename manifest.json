@@ -1,9 +1,9 @@
 {
  "launcher": {
-  "version": "1.1.0",
-  "size": 158126991,
-  "sha256": "5411fd807b3f4e1e4de1f637325afd471fd6b8230df797531a0d62c64bd831f1",
-  "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/Coreus-Games.zip"
+  "version": "1.2.0",
+  "size": 158037267,
+  "sha256": "389227bdc9fad5ed17e23bfffb26b2424399db1d3151db44e6596a2ed1d55b1c",
+  "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/Coreus-Games-1.2.0.zip"
  },
  "games": {
   "snake": {
