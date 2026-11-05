@@ -1,6 +1,8 @@
 {
  "launcher": {
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "size": 158126991,
+  "sha256": "5411fd807b3f4e1e4de1f637325afd471fd6b8230df797531a0d62c64bd831f1",
   "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/Coreus-Games.zip"
  },
  "games": {
