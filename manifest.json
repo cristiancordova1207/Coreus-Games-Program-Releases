@@ -33,6 +33,12 @@
    "size": 42648204,
    "sha256": "33ec6ce08b028dd3e5aef0e9b94e4829e6461ba63f6bbcdfd328091d3bd48250",
    "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/redcarpet-1.0.3.exe"
+  },
+  "graffiti": {
+   "version": "1.0.0",
+   "size": 42491656,
+   "sha256": "dd01fa0a65b41936004b288400af21fe8a94c310501201f720cb0ad0bafc948c",
+   "url": "https://github.com/cristiancordova1207/Coreus-Games-Program-Releases/releases/download/programas-1/graffiti-1.0.0.exe"
   }
  }
 }
